@@ -11,6 +11,9 @@ Pygame installed in your computer
 P1- W, A, S, D
 P2- Arrow keys
 
+#Rules
+Try not to get tagged by your enemy
+
 #built with
 Python
 
